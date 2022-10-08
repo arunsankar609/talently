@@ -1,0 +1,6 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    background-color: rgb(186, 178, 231);
+}
